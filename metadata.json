@@ -1,0 +1,6 @@
+{
+  "name": "DARUKAA EARTH INTELLIGENCE",
+  "description": "Turn environmental data into biodiversity action. An AI environmental scientist that connects soil, climate, land use, and biodiversity data to generate evidence-backed ecological recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
